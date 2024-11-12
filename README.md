@@ -4,6 +4,8 @@ These are the C project I did following [Bro Code's tutorial](https://www.youtub
 
 ## Installation
 
+Make sure you have clang installed
+
 Clone the repository and cd to the folder
 
 ```bash

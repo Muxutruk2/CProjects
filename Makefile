@@ -1,6 +1,6 @@
 # Makefile to compile C files in src/ into binaries in bin/
 
-CC = gcc
+CC = clang
 CFLAGS = -Wall -Wextra -O2 
 SRC_DIR = src
 BIN_DIR = bin
